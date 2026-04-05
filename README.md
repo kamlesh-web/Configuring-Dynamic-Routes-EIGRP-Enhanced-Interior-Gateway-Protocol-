@@ -1,3 +1,9 @@
+## Overview
+<img width="1366" height="768" alt="Configuring EIGRP overview" src="https://github.com/user-attachments/assets/b0642b44-51d7-41bc-9650-2d1aa91680ca" />
+
+
+---
+## EIGRP Configurations (Router 4)
     Router>
     Router>enable
     Router#
@@ -170,3 +176,8 @@
              via Connected, GigabitEthernet0/0/0
     R4(config)#
     R4(config)#
+---
+
+## Ping Test
+
+<img width="1366" height="768" alt="R4 EIGRP ping success" src="https://github.com/user-attachments/assets/2bd4aefb-c7ab-4b35-9e74-6c26910960cf" />
